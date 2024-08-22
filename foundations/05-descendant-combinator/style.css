@@ -1,6 +1,7 @@
 /*
 Possible selectors:
     div > p
+    div > .text
     .container > p
     .container > .text
 */
